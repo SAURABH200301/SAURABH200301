@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SAURABH200301
 - 👀 I’m interested in Competitive Coding and development.
 - 🌱 I’m currently learning ReactJS and working on few projects.
-- 📫 How to reach me: through insta @sharmasaurabh200301
+- 📫 How to reach me: through insta @saurabh_0820
 - Further I'm intrested in Entrepreneurship, content writing 
 
 <!---
