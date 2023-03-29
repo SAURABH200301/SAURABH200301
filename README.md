@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SAURABH200301
 - 👀 I’m interested in Competitive Coding and development.
-- 🌱 I’m currently learning ReactJS and working on few projects.
+- 🌱 I’m Full Stack Developer worked with ReactJS for frontend, mongodb and Firebase for backend. 
+- Love to learn new things. 
 - 📫 How to reach me: through insta @saurabh_0820
 - Further I'm intrested in Entrepreneurship, content writing 
 
