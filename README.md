@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I’m interested in Competitive Coding and development. 🌱 I’m Full Stack Developer worked with ReactJS for frontend, mongodb and Firebase for backend. Love to learn new things. 📫 How to reach me: through insta @saurabh\_0820 Further I'm intrested in Entrepreneurship, content writing
+I’m interested in Competitive Coding and development. 🌱 I’m Full Stack Developer worked with AngularTS, ReactJS, RxJS, Redux for frontend, Express, Node,  Mongodb and Firebase for backend. Love to learn new things. 📫 How to reach me: through insta @saurabh\_0820 Further I'm intrested in Entrepreneurship, content writing
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-git-master-saurabh200301.vercel.app/)
